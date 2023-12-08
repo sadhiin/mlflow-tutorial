@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/MLOPS/mlflow/mlruns/0/5854221d591a4300a39c3672ec84ce5a/artifacts
+end_time: 1702045690328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5854221d591a4300a39c3672ec84ce5a
+run_name: kindly-elk-119
+run_uuid: 5854221d591a4300a39c3672ec84ce5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702045683065
+status: 3
+tags: []
+user_id: Sadhin
